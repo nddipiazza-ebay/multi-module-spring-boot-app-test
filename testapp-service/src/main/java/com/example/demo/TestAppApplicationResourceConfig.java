@@ -1,6 +1,5 @@
 package com.example.demo;
 
-import com.example.demo.resource.Hello2Resource;
 import com.example.demo.resource.HelloResource;
 import jakarta.annotation.PostConstruct;
 import jakarta.ws.rs.ApplicationPath;
